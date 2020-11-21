@@ -1,0 +1,36 @@
+#masa{
+  width:150px;
+  display: block;
+  margin: 0px auto;
+}
+#owner{
+  width:120px;
+  display: block;
+  margin: 0px auto;
+}
+#clock{
+  width:130px;
+  display: block;
+  margin: 0px auto;
+}
+#contact{
+  width:400px;
+  border-right: 1px solid gray;
+  float:left;
+  height:220px;
+}
+#number{
+padding:20px;
+padding-left : 70px;
+}
+#masa2{
+  width:150px;
+  float:right;
+  text-align:center;
+}
+#menuTitle{
+  font-weight:bolder;
+}
+#menuTitleSub{
+  font-weight:bolder;
+}
